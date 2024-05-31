@@ -1,4 +1,4 @@
-# Hi there, I'm John Smith 👋
+# Hi there, I'm Shubham Garg 👋
 
 ## About Me
 I'm a software developer with a passion for open-source projects and a love for learning new technologies.
