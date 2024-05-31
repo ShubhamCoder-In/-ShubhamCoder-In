@@ -8,7 +8,7 @@
 
 ## About Me
 
-<h1 align="center">Hi, I'm [Your Name]!</h1>
+<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Ranjit Singh </h1>
 <p align="center">
   <em>A passionate developer from [Your Country]</em>
 </p>
